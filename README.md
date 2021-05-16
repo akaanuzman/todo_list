@@ -1,4 +1,4 @@
 # Todo List with JavaScript
 
 ## Preview
-<a href="https://media.giphy.com/media/UvcnoCvy7ERrpw8wql/giphy.gif"><img src="https://media.giphy.com/media/UvcnoCvy7ERrpw8wql/giphy.gif" title="Preview Todo List"/></a>
+<a href="https://media.giphy.com/media/vSxdQ8ibMm0I6fbowx/giphy.gif"><img src="https://media.giphy.com/media/vSxdQ8ibMm0I6fbowx/giphy.gif" title="Preview Todo List"/></a>
